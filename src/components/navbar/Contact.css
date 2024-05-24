@@ -1,0 +1,110 @@
+.contact{
+    padding: 2rem;
+    padding-top: 6rem;
+    background-color: rgb(0, 0, 0);
+}
+
+.insta-logo img{
+    height: 40px;
+}
+
+.wa-logo img{
+    height: 38px;
+}
+
+.fb-logo img{
+    height: 40px;
+}
+
+.email-logo img{
+    height: 40px;
+}
+
+.phone-logo img{
+    height: 40px;
+}
+
+.insta-logo span{
+    color: rgb(52, 97, 137);
+    position: absolute;
+    top: -1px;
+}
+
+.insta-logo p{
+    color: aliceblue;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+
+.wa-logo span{
+    color: rgb(52, 97, 137);
+    position: absolute;
+    top: -1px;
+}
+
+.wa-logo p{
+    color: aliceblue;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+
+.fb-logo span{
+    color: rgb(52, 97, 137);
+    position: absolute;
+    top: -1px;
+}
+
+.fb-logo p{
+    color: aliceblue;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+
+.email-logo span{
+    color: rgb(52, 97, 137);
+    position: absolute;
+    top: -1px;
+}
+
+.email-logo p{
+    color: aliceblue;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+
+.phone-logo span{
+    color: rgb(52, 97, 137);
+    position: absolute;
+    top: -1px;
+}
+
+.phone-logo p{
+    color: aliceblue;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+
+.wa-logo{
+    position: relative;
+}
+
+.insta-logo{
+    position: relative;
+}
+
+.fb-logo{
+    position: relative;
+}
+
+.email-logo{
+    position: relative;
+}
+
+.phone-logo{
+    position: relative;
+}

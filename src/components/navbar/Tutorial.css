@@ -1,0 +1,40 @@
+.tutorial{
+    padding: 2rem;
+    padding-top: 8rem;
+  }
+  
+.input-container {
+     margin-bottom: 20px;
+    }
+  
+.input-container input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #060101;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+.video-container {
+    margin-bottom: 2px;
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 2px; /* Add border radius for rounded corners */
+    overflow: hidden; /* Ensure video and thumbnail fit within border */
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+  }
+  
+.video-container h3 {
+    margin-bottom: 10px;
+  }
+  
+.video-container video {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+.video-info{
+  padding-bottom: 90px;
+}
+

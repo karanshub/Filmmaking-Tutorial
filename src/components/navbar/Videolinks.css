@@ -1,0 +1,27 @@
+/* Videolinks.css */
+
+.links {
+    padding: 2rem;
+    padding-top: 6rem;
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto; /* Enable horizontal scrolling for the entire container */
+}
+
+.videos{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.video{
+    display: flex;
+    padding: 2rem;
+    overflow-x: auto; /* Enable horizontal scrolling for the video container */
+}
+
+.video-links {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
